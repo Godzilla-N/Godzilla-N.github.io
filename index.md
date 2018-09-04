@@ -21,4 +21,4 @@ test
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+和页面有困难吗? 查看我们的文档[documentation](https://help.github.com/categories/github-pages-basics/)或联系支持[contact support](https://github.com/contact)我们会帮你解决这个问题。
