@@ -2,8 +2,7 @@
 
 你能用[编辑](https://github.com/Godzilla-N/Godzilla-N.github.io/edit/master/index.md)在Markdown文件中维护和预览你的网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+无论何时，只要您提交到这个存储库，GitHub页面都会运行Jekyll来重建站点中的页面，从您的Markdown文件中的内容。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
