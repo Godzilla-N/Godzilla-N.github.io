@@ -5,7 +5,7 @@
 无论何时，只要您提交到这个存储库，GitHub页面都会运行Jekyll来重建站点中的页面，从您的Markdown文件中的内容。
 ### Markdown
 
-Markdown是一种轻量级且易于使用的语法，用于为您的写作设计风格。它包括的约定
+Markdown是一种轻量级且易于使用的语法，用于为您的写作设计风格。它包括的约定..
 
 
 
@@ -13,7 +13,7 @@ Markdown是一种轻量级且易于使用的语法，用于为您的写作设计
 test
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+更多的细节在[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
